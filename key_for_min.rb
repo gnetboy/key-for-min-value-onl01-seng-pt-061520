@@ -4,6 +4,6 @@
  
  
 def key_for_min_value(hash)
-  return hash.values.flatten.min
+ 
 end
 
